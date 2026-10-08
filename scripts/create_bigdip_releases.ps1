@@ -28,11 +28,15 @@ if (-not (Test-Path $setup)) { throw "Installer not found at $setup. Make sure y
 
 $changelog = Get-Content "CHANGELOG.md" -Raw
 
+# Fetched once, up front: calling "gh release view" per tag would error on every tag that doesn't
+# exist yet, and PowerShell treats a native command's stderr output as a terminating error under
+# $ErrorActionPreference = "Stop", which would abort the whole script on the very first new release.
+$existingTags = @(& gh release list --json tagName -q ".[].tagName" 2>$null)
+
 foreach ($version in $Versions) {
     $tag = "v$version"
 
-    $existing = & gh release view $tag 2>$null
-    if ($LASTEXITCODE -eq 0) {
+    if ($existingTags -contains $tag) {
         Write-Host "Release $tag already exists, skipping."
         continue
     }
