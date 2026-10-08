@@ -1,4 +1,5 @@
-('C:\\Users\\jerom\\OneDrive\\Desktop\\client-reminders\\build\\ClientEmailReminders\\PYZ-00.pyz',
+('C:\\Users\\jerom\\OneDrive\\Desktop\\cookie run\\genshin '
+ 'shit\\BigDip\\build\\ClientEmailReminders\\PYZ-00.pyz',
  [('PIL',
    'C:\\Users\\jerom\\AppData\\Roaming\\Python\\Python314\\site-packages\\PIL\\__init__.py',
    'PYMODULE'),
@@ -436,13 +437,16 @@
   ('random', 'C:\\Python314\\Lib\\random.py', 'PYMODULE'),
   ('reminders', '-', 'PYMODULE'),
   ('reminders.core',
-   'C:\\Users\\jerom\\OneDrive\\Desktop\\client-reminders\\reminders\\core.py',
+   'C:\\Users\\jerom\\OneDrive\\Desktop\\cookie run\\genshin '
+   'shit\\BigDip\\reminders\\core.py',
    'PYMODULE'),
   ('reminders.outlook',
-   'C:\\Users\\jerom\\OneDrive\\Desktop\\client-reminders\\reminders\\outlook.py',
+   'C:\\Users\\jerom\\OneDrive\\Desktop\\cookie run\\genshin '
+   'shit\\BigDip\\reminders\\outlook.py',
    'PYMODULE'),
   ('reminders.version',
-   'C:\\Users\\jerom\\OneDrive\\Desktop\\client-reminders\\reminders\\version.py',
+   'C:\\Users\\jerom\\OneDrive\\Desktop\\cookie run\\genshin '
+   'shit\\BigDip\\reminders\\version.py',
    'PYMODULE'),
   ('selectors', 'C:\\Python314\\Lib\\selectors.py', 'PYMODULE'),
   ('shlex', 'C:\\Python314\\Lib\\shlex.py', 'PYMODULE'),

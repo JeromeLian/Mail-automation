@@ -5,7 +5,7 @@
 [Setup]
 AppId={{F930C728-E324-4CD5-B5ED-7CA60C616616}
 AppName=Client Email Reminders
-AppVersion=1.15
+AppVersion=1.16
 AppPublisher=PHP
 DefaultDirName={localappdata}\Programs\ClientReminders
 DefaultGroupName=Client Email Reminders

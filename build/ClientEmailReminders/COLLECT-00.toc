@@ -1,5 +1,6 @@
 ([('ClientEmailReminders.exe',
-   'C:\\Users\\jerom\\OneDrive\\Desktop\\client-reminders\\build\\ClientEmailReminders\\ClientEmailReminders.exe',
+   'C:\\Users\\jerom\\OneDrive\\Desktop\\cookie run\\genshin '
+   'shit\\BigDip\\build\\ClientEmailReminders\\ClientEmailReminders.exe',
    'EXECUTABLE'),
   ('PIL\\_avif.cp314-win_amd64.pyd',
    'C:\\Users\\jerom\\AppData\\Roaming\\Python\\Python314\\site-packages\\PIL\\_avif.cp314-win_amd64.pyd',
@@ -34,7 +35,8 @@
   ('_wmi.pyd', 'C:\\Python314\\DLLs\\_wmi.pyd', 'EXTENSION'),
   ('_zstd.pyd', 'C:\\Python314\\DLLs\\_zstd.pyd', 'EXTENSION'),
   ('base_library.zip',
-   'C:\\Users\\jerom\\OneDrive\\Desktop\\client-reminders\\build\\ClientEmailReminders\\base_library.zip',
+   'C:\\Users\\jerom\\OneDrive\\Desktop\\cookie run\\genshin '
+   'shit\\BigDip\\build\\ClientEmailReminders\\base_library.zip',
    'DATA'),
   ('libcrypto-3.dll', 'C:\\Python314\\DLLs\\libcrypto-3.dll', 'BINARY'),
   ('libffi-8.dll', 'C:\\Python314\\DLLs\\libffi-8.dll', 'BINARY'),
@@ -52,43 +54,56 @@
    'C:\\Users\\jerom\\AppData\\Roaming\\Python\\Python314\\site-packages\\pywin32_system32\\pywintypes314.dll',
    'BINARY'),
   ('seed\\companies.json',
-   'C:\\Users\\jerom\\OneDrive\\Desktop\\client-reminders\\build_seed\\companies.json',
+   'C:\\Users\\jerom\\OneDrive\\Desktop\\cookie run\\genshin '
+   'shit\\BigDip\\build_seed\\companies.json',
    'DATA'),
   ('seed\\drafts_log.csv',
-   'C:\\Users\\jerom\\OneDrive\\Desktop\\client-reminders\\build_seed\\drafts_log.csv',
+   'C:\\Users\\jerom\\OneDrive\\Desktop\\cookie run\\genshin '
+   'shit\\BigDip\\build_seed\\drafts_log.csv',
    'DATA'),
   ('seed\\left_out_companies.json',
-   'C:\\Users\\jerom\\OneDrive\\Desktop\\client-reminders\\build_seed\\left_out_companies.json',
+   'C:\\Users\\jerom\\OneDrive\\Desktop\\cookie run\\genshin '
+   'shit\\BigDip\\build_seed\\left_out_companies.json',
    'DATA'),
   ('seed\\person_names.json',
-   'C:\\Users\\jerom\\OneDrive\\Desktop\\client-reminders\\build_seed\\person_names.json',
+   'C:\\Users\\jerom\\OneDrive\\Desktop\\cookie run\\genshin '
+   'shit\\BigDip\\build_seed\\person_names.json',
    'DATA'),
   ('seed\\presets.json',
-   'C:\\Users\\jerom\\OneDrive\\Desktop\\client-reminders\\build_seed\\presets.json',
+   'C:\\Users\\jerom\\OneDrive\\Desktop\\cookie run\\genshin '
+   'shit\\BigDip\\build_seed\\presets.json',
    'DATA'),
   ('seed\\profile_emails.json',
-   'C:\\Users\\jerom\\OneDrive\\Desktop\\client-reminders\\build_seed\\profile_emails.json',
+   'C:\\Users\\jerom\\OneDrive\\Desktop\\cookie run\\genshin '
+   'shit\\BigDip\\build_seed\\profile_emails.json',
    'DATA'),
   ('seed\\subscriptions.json',
-   'C:\\Users\\jerom\\OneDrive\\Desktop\\client-reminders\\build_seed\\subscriptions.json',
+   'C:\\Users\\jerom\\OneDrive\\Desktop\\cookie run\\genshin '
+   'shit\\BigDip\\build_seed\\subscriptions.json',
    'DATA'),
   ('seed\\template_images\\3766778c43704303b33bece49a8fc918.png',
-   'C:\\Users\\jerom\\OneDrive\\Desktop\\client-reminders\\build_seed\\template_images\\3766778c43704303b33bece49a8fc918.png',
+   'C:\\Users\\jerom\\OneDrive\\Desktop\\cookie run\\genshin '
+   'shit\\BigDip\\build_seed\\template_images\\3766778c43704303b33bece49a8fc918.png',
    'DATA'),
   ('seed\\template_images\\685fa4ab13e249c0aa2efe9c5064c78b.png',
-   'C:\\Users\\jerom\\OneDrive\\Desktop\\client-reminders\\build_seed\\template_images\\685fa4ab13e249c0aa2efe9c5064c78b.png',
+   'C:\\Users\\jerom\\OneDrive\\Desktop\\cookie run\\genshin '
+   'shit\\BigDip\\build_seed\\template_images\\685fa4ab13e249c0aa2efe9c5064c78b.png',
    'DATA'),
   ('seed\\template_images\\86bec4b366e3408e8217f2f18f257fce.png',
-   'C:\\Users\\jerom\\OneDrive\\Desktop\\client-reminders\\build_seed\\template_images\\86bec4b366e3408e8217f2f18f257fce.png',
+   'C:\\Users\\jerom\\OneDrive\\Desktop\\cookie run\\genshin '
+   'shit\\BigDip\\build_seed\\template_images\\86bec4b366e3408e8217f2f18f257fce.png',
    'DATA'),
   ('seed\\template_images\\cf4258f496904cb9966e6610e3e5e2ae.png',
-   'C:\\Users\\jerom\\OneDrive\\Desktop\\client-reminders\\build_seed\\template_images\\cf4258f496904cb9966e6610e3e5e2ae.png',
+   'C:\\Users\\jerom\\OneDrive\\Desktop\\cookie run\\genshin '
+   'shit\\BigDip\\build_seed\\template_images\\cf4258f496904cb9966e6610e3e5e2ae.png',
    'DATA'),
   ('seed\\template_images\\cf58c1fbbd6345a587631791ab01aa4a.png',
-   'C:\\Users\\jerom\\OneDrive\\Desktop\\client-reminders\\build_seed\\template_images\\cf58c1fbbd6345a587631791ab01aa4a.png',
+   'C:\\Users\\jerom\\OneDrive\\Desktop\\cookie run\\genshin '
+   'shit\\BigDip\\build_seed\\template_images\\cf58c1fbbd6345a587631791ab01aa4a.png',
    'DATA'),
   ('seed\\templates.json',
-   'C:\\Users\\jerom\\OneDrive\\Desktop\\client-reminders\\build_seed\\templates.json',
+   'C:\\Users\\jerom\\OneDrive\\Desktop\\cookie run\\genshin '
+   'shit\\BigDip\\build_seed\\templates.json',
    'DATA'),
   ('select.pyd', 'C:\\Python314\\DLLs\\select.pyd', 'EXTENSION'),
   ('tcl90.dll', 'C:\\Python314\\DLLs\\tcl90.dll', 'BINARY'),

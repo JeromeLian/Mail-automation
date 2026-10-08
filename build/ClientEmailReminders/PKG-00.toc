@@ -1,4 +1,5 @@
-('C:\\Users\\jerom\\OneDrive\\Desktop\\client-reminders\\build\\ClientEmailReminders\\ClientEmailReminders.pkg',
+('C:\\Users\\jerom\\OneDrive\\Desktop\\cookie run\\genshin '
+ 'shit\\BigDip\\build\\ClientEmailReminders\\ClientEmailReminders.pkg',
  {'BINARY': True,
   'DATA': True,
   'EXECUTABLE': True,
@@ -10,22 +11,28 @@
   'SYMLINK': False},
  [('pyi-contents-directory _internal', '', 'OPTION'),
   ('PYZ-00.pyz',
-   'C:\\Users\\jerom\\OneDrive\\Desktop\\client-reminders\\build\\ClientEmailReminders\\PYZ-00.pyz',
+   'C:\\Users\\jerom\\OneDrive\\Desktop\\cookie run\\genshin '
+   'shit\\BigDip\\build\\ClientEmailReminders\\PYZ-00.pyz',
    'PYZ'),
   ('struct',
-   'C:\\Users\\jerom\\OneDrive\\Desktop\\client-reminders\\build\\ClientEmailReminders\\localpycs\\struct.pyc',
+   'C:\\Users\\jerom\\OneDrive\\Desktop\\cookie run\\genshin '
+   'shit\\BigDip\\build\\ClientEmailReminders\\localpycs\\struct.pyc',
    'PYMODULE'),
   ('pyimod01_archive',
-   'C:\\Users\\jerom\\OneDrive\\Desktop\\client-reminders\\build\\ClientEmailReminders\\localpycs\\pyimod01_archive.pyc',
+   'C:\\Users\\jerom\\OneDrive\\Desktop\\cookie run\\genshin '
+   'shit\\BigDip\\build\\ClientEmailReminders\\localpycs\\pyimod01_archive.pyc',
    'PYMODULE'),
   ('pyimod02_importers',
-   'C:\\Users\\jerom\\OneDrive\\Desktop\\client-reminders\\build\\ClientEmailReminders\\localpycs\\pyimod02_importers.pyc',
+   'C:\\Users\\jerom\\OneDrive\\Desktop\\cookie run\\genshin '
+   'shit\\BigDip\\build\\ClientEmailReminders\\localpycs\\pyimod02_importers.pyc',
    'PYMODULE'),
   ('pyimod03_ctypes',
-   'C:\\Users\\jerom\\OneDrive\\Desktop\\client-reminders\\build\\ClientEmailReminders\\localpycs\\pyimod03_ctypes.pyc',
+   'C:\\Users\\jerom\\OneDrive\\Desktop\\cookie run\\genshin '
+   'shit\\BigDip\\build\\ClientEmailReminders\\localpycs\\pyimod03_ctypes.pyc',
    'PYMODULE'),
   ('pyimod04_pywin32',
-   'C:\\Users\\jerom\\OneDrive\\Desktop\\client-reminders\\build\\ClientEmailReminders\\localpycs\\pyimod04_pywin32.pyc',
+   'C:\\Users\\jerom\\OneDrive\\Desktop\\cookie run\\genshin '
+   'shit\\BigDip\\build\\ClientEmailReminders\\localpycs\\pyimod04_pywin32.pyc',
    'PYMODULE'),
   ('pyiboot01_bootstrap',
    'C:\\Users\\jerom\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
@@ -43,7 +50,8 @@
    'C:\\Users\\jerom\\AppData\\Local\\Packages\\Claude_pzs8sxrjxfjjc\\LocalCache\\Roaming\\Python\\Python314\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth__tkinter.py',
    'PYSOURCE'),
   ('app',
-   'C:\\Users\\jerom\\OneDrive\\Desktop\\client-reminders\\app.py',
+   'C:\\Users\\jerom\\OneDrive\\Desktop\\cookie run\\genshin '
+   'shit\\BigDip\\app.py',
    'PYSOURCE')],
  'python314.dll',
  True,
