@@ -1,0 +1,128 @@
+{
+  "tamassem tour operator & travel services pte ltd": {
+    "company_name": "TAMASSEM TOUR OPERATOR & TRAVEL SERVICES PTE LTD",
+    "status": "recorded",
+    "invoices": [
+      "Mail scanning"
+    ]
+  },
+  "dxh trading pte. ltd.": {
+    "company_name": "DXH Trading Pte. Ltd.",
+    "status": "recorded",
+    "invoices": [
+      "Mail Scanning Service"
+    ]
+  },
+  "datadiggers market research pte. ltd.": {
+    "company_name": "DATADIGGERS MARKET RESEARCH PTE. LTD.",
+    "status": "recorded",
+    "invoices": [
+      "Mail Scanning Service"
+    ]
+  },
+  "pinegrow pte. ltd.": {
+    "company_name": "Pinegrow Pte. Ltd.",
+    "status": "active",
+    "invoices": [
+      "Mail scanning service"
+    ],
+    "end_date": "2027-08-30"
+  },
+  "ekyo singapore pte. ltd": {
+    "company_name": "EKYO SINGAPORE PTE. LTD",
+    "status": "recorded",
+    "invoices": [
+      "Mail scanning service"
+    ]
+  },
+  "stelcore pte. ltd.": {
+    "company_name": "STELCORE PTE. LTD.",
+    "status": "recorded",
+    "invoices": [
+      "Mail Scanning Service"
+    ]
+  },
+  "undergate trading sdn. bhd.": {
+    "company_name": "Undergate Trading Sdn. Bhd.",
+    "status": "recorded",
+    "invoices": [
+      "mail scanning"
+    ]
+  },
+  "voyen sdn. bhd.": {
+    "company_name": "Voyen Sdn. Bhd.",
+    "status": "recorded",
+    "invoices": [
+      "Mail Scanning Fees August 2023 - July 2024"
+    ]
+  },
+  "e-pac singapore packaging pte. ltd.": {
+    "company_name": "E-PAC SINGAPORE PACKAGING PTE. LTD.",
+    "status": "recorded",
+    "invoices": [
+      "Mail Scanning Fees (Jan'24-Dec'24)"
+    ]
+  },
+  "metadev pte ltd": {
+    "company_name": "MetaDev Pte Ltd",
+    "status": "recorded",
+    "invoices": [
+      "Mail scanning service"
+    ]
+  },
+  "conso parts pte. ltd.": {
+    "company_name": "Conso Parts Pte. Ltd.",
+    "status": "active",
+    "invoices": [
+      "Annual compliance package 2024+ mail scanning service",
+      "Annual compliance package 2025 + mail scanning service",
+      "Annual compliance package 2026 + mail scanning service"
+    ],
+    "end_date": "2027-04-30"
+  },
+  "ebenezer entreprise pte. ltd.": {
+    "company_name": "Ebenezer Entreprise Pte. Ltd.",
+    "status": "recorded",
+    "invoices": [
+      "Mail Scanning"
+    ]
+  },
+  "asia food ingredients solutions pte. ltd": {
+    "company_name": "Asia Food Ingredients Solutions Pte. Ltd",
+    "status": "recorded",
+    "invoices": [
+      "Mail Scanning",
+      "Mail Scanning 2026"
+    ]
+  },
+  "pacific master (sg) pte. ltd.": {
+    "company_name": "Pacific Master (SG) Pte. Ltd.",
+    "status": "recorded",
+    "invoices": [
+      "One Month Mail Scanning"
+    ]
+  },
+  "accelerated integrated services limited": {
+    "company_name": "ACCELERATED INTEGRATED SERVICES LIMITED",
+    "status": "recorded",
+    "invoices": [
+      "Mail Scanning",
+      "Mail subscription 12months",
+      "Mail Subscription"
+    ]
+  },
+  "tigereye enterprise sdn. bhd.": {
+    "company_name": "Tigereye Enterprise Sdn. Bhd.",
+    "status": "recorded",
+    "invoices": [
+      "MY COO + Mail Subscription and Courier Dec 2021 to Nov 2022"
+    ]
+  },
+  "opticode pte. ltd.": {
+    "company_name": "OPTICODE PTE. LTD.",
+    "status": "recorded",
+    "invoices": [
+      "Mail Subscription"
+    ]
+  }
+}

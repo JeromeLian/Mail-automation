@@ -1,0 +1,2 @@
+# Zoho credentials: never commit (keep .env on the PC only)
+.env

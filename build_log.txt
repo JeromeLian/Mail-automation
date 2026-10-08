@@ -1,0 +1,89 @@
+255 INFO: PyInstaller: 6.22.3, contrib hooks: 2026.8
+256 INFO: Python: 3.14.7
+297 INFO: Platform: Windows-11-10.0.26200-SP0
+297 INFO: Python environment: C:\Python314
+297 INFO: wrote C:\Users\jerom\OneDrive\Desktop\client-reminders\ClientEmailReminders.spec
+303 INFO: Module search paths (PYTHONPATH):
+['C:\\Users\\jerom\\OneDrive\\Desktop\\client-reminders',
+ 'C:\\Python314\\python314.zip',
+ 'C:\\Python314\\DLLs',
+ 'C:\\Python314\\Lib',
+ 'C:\\Python314',
+ 'C:\\Users\\jerom\\AppData\\Roaming\\Python\\Python314\\site-packages',
+ 'C:\\Users\\jerom\\AppData\\Roaming\\Python\\Python314\\site-packages\\win32',
+ 'C:\\Users\\jerom\\AppData\\Roaming\\Python\\Python314\\site-packages\\win32\\lib',
+ 'C:\\Users\\jerom\\AppData\\Roaming\\Python\\Python314\\site-packages\\pythonwin',
+ 'C:\\Python314\\Lib\\site-packages',
+ 'C:\\Users\\jerom\\OneDrive\\Desktop\\client-reminders']
+707 INFO: Appending 'datas' from .spec
+708 INFO: checking Analysis
+708 INFO: Building Analysis because Analysis-00.toc is non existent
+708 INFO: Looking for Python shared library...
+709 INFO: Using Python shared library: C:\Python314\python314.dll
+709 INFO: Running Analysis Analysis-00.toc
+709 INFO: Target bytecode optimization level: 0
+709 INFO: Initializing module dependency graph...
+710 INFO: Initializing module graph hook caches...
+731 INFO: Analyzing modules for base_library.zip ...
+1954 INFO: Processing standard module hook 'hook-encodings.py' from 'C:\\Users\\jerom\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyInstaller\\hooks'
+3516 INFO: Processing standard module hook 'hook-math.py' from 'C:\\Users\\jerom\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyInstaller\\hooks'
+5561 INFO: Processing standard module hook 'hook-difflib.py' from 'C:\\Users\\jerom\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyInstaller\\hooks'
+5578 INFO: Processing standard module hook 'hook-heapq.py' from 'C:\\Users\\jerom\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyInstaller\\hooks'
+5745 INFO: Processing standard module hook 'hook-pickle.py' from 'C:\\Users\\jerom\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyInstaller\\hooks'
+7868 INFO: Caching module dependency graph...
+7908 INFO: Analyzing C:\Users\jerom\OneDrive\Desktop\client-reminders\app.py
+8164 INFO: Processing pre-find-module-path hook 'hook-tkinter.py' from 'C:\\Users\\jerom\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyInstaller\\hooks\\pre_find_module_path'
+8166 INFO: TclTkInfo: initializing cached Tcl/Tk info...
+8692 INFO: Processing standard module hook 'hook-_tkinter.py' from 'C:\\Users\\jerom\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyInstaller\\hooks'
+8800 INFO: Processing standard module hook 'hook-PIL.py' from 'C:\\Users\\jerom\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyInstaller\\hooks'
+8983 INFO: Processing standard module hook 'hook-PIL.Image.py' from 'C:\\Users\\jerom\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyInstaller\\hooks'
+9508 INFO: Processing standard module hook 'hook-xml.py' from 'C:\\Users\\jerom\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyInstaller\\hooks'
+9537 INFO: Processing standard module hook 'hook-xml.etree.cElementTree.py' from 'C:\\Users\\jerom\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyInstaller\\hooks'
+9839 INFO: Processing standard module hook 'hook-PIL.ImageFilter.py' from 'C:\\Users\\jerom\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyInstaller\\hooks'
+10471 INFO: Processing standard module hook 'hook-platform.py' from 'C:\\Users\\jerom\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyInstaller\\hooks'
+10529 INFO: Processing standard module hook 'hook-sysconfig.py' from 'C:\\Users\\jerom\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyInstaller\\hooks'
+10535 INFO: Processing standard module hook 'hook-_ctypes.py' from 'C:\\Users\\jerom\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyInstaller\\hooks'
+10550 INFO: Processing pre-safe-import-module hook 'hook-win32com.py' from 'C:\\Users\\jerom\\AppData\\Roaming\\Python\\Python314\\site-packages\\_pyinstaller_hooks_contrib\\pre_safe_import_module'
+10693 INFO: Processing standard module hook 'hook-win32com.py' from 'C:\\Users\\jerom\\AppData\\Roaming\\Python\\Python314\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+10696 INFO: Processing standard module hook 'hook-pythoncom.py' from 'C:\\Users\\jerom\\AppData\\Roaming\\Python\\Python314\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+10820 INFO: Processing standard module hook 'hook-pywintypes.py' from 'C:\\Users\\jerom\\AppData\\Roaming\\Python\\Python314\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+11746 INFO: Processing module hooks (post-graph stage)...
+12278 INFO: Processing standard module hook 'hook-PIL.SpiderImagePlugin.py' from 'C:\\Users\\jerom\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyInstaller\\hooks'
+12430 INFO: Processing standard module hook 'hook-_tkinter.py' from 'C:\\Users\\jerom\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyInstaller\\hooks'
+12435 INFO: Performing binary vs. data reclassification (16 entries)
+12441 INFO: Looking for ctypes DLLs
+12457 INFO: Analyzing run-time hooks ...
+12458 INFO: Including run-time hook 'pyi_rth_inspect.py' from 'C:\\Users\\jerom\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyInstaller\\hooks\\rthooks'
+12463 INFO: Including run-time hook 'pyi_rth_pywintypes.py' from 'C:\\Users\\jerom\\AppData\\Roaming\\Python\\Python314\\site-packages\\_pyinstaller_hooks_contrib\\rthooks'
+12464 INFO: Including run-time hook 'pyi_rth_pythoncom.py' from 'C:\\Users\\jerom\\AppData\\Roaming\\Python\\Python314\\site-packages\\_pyinstaller_hooks_contrib\\rthooks'
+12465 INFO: Including run-time hook 'pyi_rth__tkinter.py' from 'C:\\Users\\jerom\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyInstaller\\hooks\\rthooks'
+12472 INFO: Creating base_library.zip...
+12495 INFO: Looking for dynamic libraries
+12761 INFO: Extra DLL search directories (AddDllDirectory): []
+12761 INFO: Extra DLL search directories (PATH): []
+13581 INFO: Warnings written to C:\Users\jerom\OneDrive\Desktop\client-reminders\build\ClientEmailReminders\warn-ClientEmailReminders.txt
+13614 INFO: Graph cross-reference written to C:\Users\jerom\OneDrive\Desktop\client-reminders\build\ClientEmailReminders\xref-ClientEmailReminders.html
+13636 INFO: checking PYZ
+13636 INFO: Building PYZ because PYZ-00.toc is non existent
+13637 INFO: Building PYZ (ZlibArchive) C:\Users\jerom\OneDrive\Desktop\client-reminders\build\ClientEmailReminders\PYZ-00.pyz
+13841 INFO: Building PYZ (ZlibArchive) C:\Users\jerom\OneDrive\Desktop\client-reminders\build\ClientEmailReminders\PYZ-00.pyz completed successfully.
+13854 INFO: checking PKG
+13855 INFO: Building PKG because PKG-00.toc is non existent
+13855 INFO: Building PKG (CArchive) ClientEmailReminders.pkg
+13938 INFO: Building PKG (CArchive) ClientEmailReminders.pkg completed successfully.
+13939 INFO: Bootloader C:\Users\jerom\AppData\Roaming\Python\Python314\site-packages\PyInstaller\bootloader\Windows-64bit-intel\runw.exe
+13939 INFO: checking EXE
+13939 INFO: Building EXE because EXE-00.toc is non existent
+13939 INFO: Building EXE from EXE-00.toc
+13939 INFO: Copying bootloader EXE to C:\Users\jerom\OneDrive\Desktop\client-reminders\build\ClientEmailReminders\ClientEmailReminders.exe
+13945 INFO: Copying icon to EXE
+13949 INFO: Copying 0 resources to EXE
+13949 INFO: Embedding manifest in EXE
+13954 INFO: Appending PKG archive to EXE
+13956 INFO: Fixing EXE headers
+14038 INFO: Building EXE from EXE-00.toc completed successfully.
+14039 INFO: checking COLLECT
+14039 INFO: Building COLLECT because COLLECT-00.toc is non existent
+14040 INFO: Building COLLECT COLLECT-00.toc
+14133 INFO: Building COLLECT COLLECT-00.toc completed successfully.
+14135 INFO: Build complete! The results are available in: C:\Users\jerom\OneDrive\Desktop\client-reminders\dist

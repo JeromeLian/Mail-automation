@@ -1,0 +1,107 @@
+[
+  {
+    "company_name": "SSAL KITCHEN PTE. LTD.",
+    "template_name": "Mail Collection Reminder",
+    "email": ""
+  },
+  {
+    "company_name": "DERMHUB LABORATORIES PTE. LTD.",
+    "template_name": "Mails Subscription",
+    "email": ""
+  },
+  {
+    "company_name": "HBYY Pte Ltd",
+    "template_name": "Urgent Letter Received",
+    "email": ""
+  },
+  {
+    "company_name": "RISKTAKER SG PTE. LTD.",
+    "template_name": "Mail Collection Reminder",
+    "email": "tommy@risktaker.world"
+  },
+  {
+    "company_name": "OKKUDAK PTE. LTD.",
+    "template_name": "Mail Collection Reminder",
+    "email": "scottsohn@hotmail.com"
+  },
+  {
+    "company_name": "Asia Food Ingredients Solutions Pte. Ltd",
+    "template_name": "Mails Subscription",
+    "email": "tsengck@gmail.com"
+  },
+  {
+    "company_name": "SSAL KITCHEN PTE. LTD.",
+    "template_name": "Urgent Letter Received",
+    "email": ""
+  },
+  {
+    "company_name": "SSAL KITCHEN PTE. LTD.",
+    "template_name": "Mails Subscription",
+    "email": ""
+  },
+  {
+    "company_name": "DERMHUB LABORATORIES PTE. LTD.",
+    "template_name": "Mail Collection Reminder",
+    "email": ""
+  },
+  {
+    "company_name": "DERMHUB LABORATORIES PTE. LTD.",
+    "template_name": "Urgent Letter Received",
+    "email": ""
+  },
+  {
+    "company_name": "HBYY Pte Ltd",
+    "template_name": "Mail Collection Reminder",
+    "email": ""
+  },
+  {
+    "company_name": "HBYY Pte Ltd",
+    "template_name": "Mails Subscription",
+    "email": ""
+  },
+  {
+    "company_name": "RISKTAKER SG PTE. LTD.",
+    "template_name": "Urgent Letter Received",
+    "email": "tommy@risktaker.world"
+  },
+  {
+    "company_name": "RISKTAKER SG PTE. LTD.",
+    "template_name": "Mails Subscription",
+    "email": "tommy@risktaker.world"
+  },
+  {
+    "company_name": "OKKUDAK PTE. LTD.",
+    "template_name": "Urgent Letter Received",
+    "email": "scottsohn@hotmail.com"
+  },
+  {
+    "company_name": "OKKUDAK PTE. LTD.",
+    "template_name": "Mails Subscription",
+    "email": "scottsohn@hotmail.com"
+  },
+  {
+    "company_name": "Asia Food Ingredients Solutions Pte. Ltd",
+    "template_name": "Mail Collection Reminder",
+    "email": "tsengck@gmail.com"
+  },
+  {
+    "company_name": "Asia Food Ingredients Solutions Pte. Ltd",
+    "template_name": "Urgent Letter Received",
+    "email": "tsengck@gmail.com"
+  },
+  {
+    "company_name": "GREAT LION PTE. LTD",
+    "template_name": "Mail Collection Reminder",
+    "email": "noriyuki_sakazume@yahoo.co.jp"
+  },
+  {
+    "company_name": "GREAT LION PTE. LTD",
+    "template_name": "Urgent Letter Received",
+    "email": "noriyuki_sakazume@yahoo.co.jp"
+  },
+  {
+    "company_name": "GREAT LION PTE. LTD",
+    "template_name": "Mails Subscription",
+    "email": "noriyuki_sakazume@yahoo.co.jp"
+  }
+]
