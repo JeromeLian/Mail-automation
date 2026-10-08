@@ -1,107 +1,107 @@
 [
   {
-    "company_name": "SSAL KITCHEN PTE. LTD.",
+    "company_name": "ling kitchen pte. ltd.",
     "template_name": "Mail Collection Reminder",
     "email": ""
   },
   {
-    "company_name": "DERMHUB LABORATORIES PTE. LTD.",
+    "company_name": "bruno laboratories pte. ltd.",
     "template_name": "Mails Subscription",
     "email": ""
   },
   {
-    "company_name": "HBYY Pte Ltd",
+    "company_name": "Falcon Marketing Pte Ltd",
     "template_name": "Urgent Letter Received",
     "email": ""
   },
   {
-    "company_name": "RISKTAKER SG PTE. LTD.",
+    "company_name": "BEACON VENTURES PTE. LTD.",
     "template_name": "Mail Collection Reminder",
-    "email": "tommy@risktaker.world"
+    "email": "mary.williams@beaconventurespteltd2.com"
   },
   {
-    "company_name": "OKKUDAK PTE. LTD.",
+    "company_name": "Bruno Solutions Pte. Ltd.",
     "template_name": "Mail Collection Reminder",
-    "email": "scottsohn@hotmail.com"
+    "email": "li.ibrahim@hotmail.com"
   },
   {
-    "company_name": "Asia Food Ingredients Solutions Pte. Ltd",
+    "company_name": "Marcus Solutions Pte. Ltd",
     "template_name": "Mails Subscription",
-    "email": "tsengck@gmail.com"
+    "email": "sarah.loh@gmail.com"
   },
   {
-    "company_name": "SSAL KITCHEN PTE. LTD.",
+    "company_name": "ling kitchen pte. ltd.",
     "template_name": "Urgent Letter Received",
     "email": ""
   },
   {
-    "company_name": "SSAL KITCHEN PTE. LTD.",
+    "company_name": "ling kitchen pte. ltd.",
     "template_name": "Mails Subscription",
     "email": ""
   },
   {
-    "company_name": "DERMHUB LABORATORIES PTE. LTD.",
-    "template_name": "Mail Collection Reminder",
-    "email": ""
-  },
-  {
-    "company_name": "DERMHUB LABORATORIES PTE. LTD.",
-    "template_name": "Urgent Letter Received",
-    "email": ""
-  },
-  {
-    "company_name": "HBYY Pte Ltd",
+    "company_name": "bruno laboratories pte. ltd.",
     "template_name": "Mail Collection Reminder",
     "email": ""
   },
   {
-    "company_name": "HBYY Pte Ltd",
+    "company_name": "bruno laboratories pte. ltd.",
+    "template_name": "Urgent Letter Received",
+    "email": ""
+  },
+  {
+    "company_name": "Falcon Marketing Pte Ltd",
+    "template_name": "Mail Collection Reminder",
+    "email": ""
+  },
+  {
+    "company_name": "Falcon Marketing Pte Ltd",
     "template_name": "Mails Subscription",
     "email": ""
   },
   {
-    "company_name": "RISKTAKER SG PTE. LTD.",
+    "company_name": "BEACON VENTURES PTE. LTD.",
     "template_name": "Urgent Letter Received",
-    "email": "tommy@risktaker.world"
+    "email": "mary.williams@beaconventurespteltd2.com"
   },
   {
-    "company_name": "RISKTAKER SG PTE. LTD.",
+    "company_name": "BEACON VENTURES PTE. LTD.",
     "template_name": "Mails Subscription",
-    "email": "tommy@risktaker.world"
+    "email": "mary.williams@beaconventurespteltd2.com"
   },
   {
-    "company_name": "OKKUDAK PTE. LTD.",
+    "company_name": "Bruno Solutions Pte. Ltd.",
     "template_name": "Urgent Letter Received",
-    "email": "scottsohn@hotmail.com"
+    "email": "li.ibrahim@hotmail.com"
   },
   {
-    "company_name": "OKKUDAK PTE. LTD.",
+    "company_name": "Bruno Solutions Pte. Ltd.",
     "template_name": "Mails Subscription",
-    "email": "scottsohn@hotmail.com"
+    "email": "li.ibrahim@hotmail.com"
   },
   {
-    "company_name": "Asia Food Ingredients Solutions Pte. Ltd",
+    "company_name": "Marcus Solutions Pte. Ltd",
     "template_name": "Mail Collection Reminder",
-    "email": "tsengck@gmail.com"
+    "email": "sarah.loh@gmail.com"
   },
   {
-    "company_name": "Asia Food Ingredients Solutions Pte. Ltd",
+    "company_name": "Marcus Solutions Pte. Ltd",
     "template_name": "Urgent Letter Received",
-    "email": "tsengck@gmail.com"
+    "email": "sarah.loh@gmail.com"
   },
   {
-    "company_name": "GREAT LION PTE. LTD",
+    "company_name": "IRONWOOD MANAGEMENT PTE. LTD",
     "template_name": "Mail Collection Reminder",
-    "email": "noriyuki_sakazume@yahoo.co.jp"
+    "email": "mei.toh@cedarholdingspteltd.com"
   },
   {
-    "company_name": "GREAT LION PTE. LTD",
+    "company_name": "IRONWOOD MANAGEMENT PTE. LTD",
     "template_name": "Urgent Letter Received",
-    "email": "noriyuki_sakazume@yahoo.co.jp"
+    "email": "mei.toh@cedarholdingspteltd.com"
   },
   {
-    "company_name": "GREAT LION PTE. LTD",
+    "company_name": "IRONWOOD MANAGEMENT PTE. LTD",
     "template_name": "Mails Subscription",
-    "email": "noriyuki_sakazume@yahoo.co.jp"
+    "email": "mei.toh@cedarholdingspteltd.com"
   }
 ]
