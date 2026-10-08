@@ -11,7 +11,7 @@ PR_ATTACH_CONTENT_ID = "http://schemas.microsoft.com/mapi/proptag/0x3712001F"
 PR_ATTACHMENT_HIDDEN = "http://schemas.microsoft.com/mapi/proptag/0x7FFE000B"
 
 # Drafts are saved to this mailbox's Drafts folder. It must be an account added to classic Outlook.
-DRAFT_ACCOUNT = "mail@php-cpa.com.sg"
+DRAFT_ACCOUNT = "mail@acme-cpa.com.sg"
 
 
 def _find_draft_folder(outlook, address: str):
