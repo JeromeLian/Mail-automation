@@ -1261,7 +1261,8 @@ class ReminderApp(tk.Tk):
         frm.columnconfigure(0, weight=1)
         ttk.Label(frm, text="Profiles", font=("Segoe UI", 16, "bold")).pack(anchor="w", pady=(0, 6))
         ttk.Label(frm, foreground="gray",
-                  text="Each company with all of its presets. Double-click a company, or select it and press Open.",
+                  text="Each company with all of its presets. Double-click a company, or select it and press "
+                       "Open. Search matches the company name or a person's name on its profile.",
                   ).pack(anchor="w", pady=(0, 10))
         filters = ttk.Frame(frm)
         filters.pack(fill="x", pady=(0, 8))
@@ -1303,12 +1304,17 @@ class ReminderApp(tk.Tk):
         self.show(self.profiles_frame)
 
     def refresh_profile_list(self) -> None:
-        """Fills the profiles list, applying the search box, the POC filter and the subscription filter."""
+        """Fills the profiles list, applying the search box, the POC filter and the subscription filter.
+
+        The search matches the company name or the name of a person behind one of its addresses, the
+        same rule Use preset and Find existing client use.
+        """
         groups, pocs = self.poc_index()
+        people = self.people_by_company()
         typed = self.profile_search.get().strip().casefold()
         choice = self.poc_filter.get()
         sub_choice = self.subscription_filter.get()
-        # each item: (key, company name, number of templates, has no POC, subscription status or "")
+        # each item: (key, company name, number of templates, has no POC, subscription status or "", matching person)
         items = []
         for key, presets in groups.items():
             name = presets[0].company_name
@@ -1324,15 +1330,19 @@ class ReminderApp(tk.Tk):
                 continue
             if sub_choice == "No subscription" and sub_status != "":
                 continue
+            person = ""
             if typed and typed not in name.casefold():
-                continue
-            items.append((key, name, len(presets), missing, sub_status))
+                person = next((n for n in people.get(key, []) if typed in n.casefold()), "")
+                if not person:
+                    continue
+            items.append((key, name, len(presets), missing, sub_status, person))
         items.sort(key=lambda i: i[1].casefold(), reverse=self.sort_order.get() == "Descending")
 
         self.profile_keys = []
         self.profile_list.delete(0, "end")
-        for key, name, count, missing, sub_status in items:
-            line = f"{name}  ({count} template{'s' if count != 1 else ''})"
+        for key, name, count, missing, sub_status, person in items:
+            line = f"{name}  ({person})" if person else name
+            line += f"   ({count} template{'s' if count != 1 else ''})"
             if sub_status:
                 line += f"   [{SUBSCRIPTION_LABELS.get(sub_status, sub_status)}]"
             if missing:

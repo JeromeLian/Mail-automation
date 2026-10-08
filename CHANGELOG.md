@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.16
+
+### Added
+- The Profiles search box now also matches a person's name, not just the company name — the same rule
+  Use preset and Find existing client already use. When a result matches by person, their name is shown
+  next to the company.
+
 ## 1.15
 
 ### Changed
