@@ -59,7 +59,7 @@ Use preset and Draft multiple emails both depend on the POC.
 ## 2026-10-06: Zoho export (read-only)
 
 **What:** `scripts/export_zoho_companies.py` reads contacts through the Zoho CRM API and writes
-`companies.json` (companies with one client email, or two with one @php-cpa.com.sg address) and
+`companies.json` (companies with one client email, or two with one @acme-cpa.com.sg address) and
 `left_out_companies.json` (everything else, with their client emails).
 
 **Decisions and why:**

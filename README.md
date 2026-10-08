@@ -5,7 +5,7 @@ Outlook classic**, so you check it and press Send yourself. Nothing is sent by t
 remember each company's template and point of contact (POC), so a reminder takes a few clicks.
 
 **Before you start:** Outlook classic (the desktop app) must be installed and signed in to
-**mail@php-cpa.com.sg**. The new Outlook does not work with this app.
+**mail@acme-cpa.com.sg**. The new Outlook does not work with this app.
 
 ---
 
@@ -81,7 +81,7 @@ you want to draft for more than one client.
 
 ### Saving drafts
 **Save as draft** saves the email to the Drafts folder of the account set in `reminders/outlook.py`
-(`DRAFT_ACCOUNT`, currently mail@php-cpa.com.sg). Each draft is logged to `drafts_log.csv` with the client,
+(`DRAFT_ACCOUNT`, currently mail@acme-cpa.com.sg). Each draft is logged to `drafts_log.csv` with the client,
 template, recipients and subject.
 
 ### Change Log
