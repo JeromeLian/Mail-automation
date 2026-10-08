@@ -87,7 +87,7 @@
 ## 1.2
 
 ### Added
-- A new program and installer icon: the Paul Hype Page logo with an email symbol.
+- A new program and installer icon: the John Carter logo with an email symbol.
 - A reminder on the start screen to sign in to mail@acme-cpa.com.sg in Outlook classic before using the app.
 
 ## 1.1
